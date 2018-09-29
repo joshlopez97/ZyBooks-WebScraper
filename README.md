@@ -1,2 +1,2 @@
-# ZyBooks-WebScraper
-Completes participation activities for zybooks assignments.
+# ZyBooks-Bot
+Creates headless webkit instance to evaluate JS-dependent webpages to automate ZyBooks tasks.
