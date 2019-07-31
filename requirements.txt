@@ -23,7 +23,7 @@ pyldap==2.4.37
 PyQt5==5.9
 pytz==2017.2
 redis==2.10.6
-requests==2.18.4
+requests==2.20.0
 sip==4.19.3
 six==1.11.0
 urllib3==1.22
